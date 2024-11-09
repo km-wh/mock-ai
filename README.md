@@ -18,3 +18,8 @@ json-server を起動する
 ```shell
 $ node server.js
 ```
+
+以上の手順で、下記へのアクセスが可能となる
+```shell
+POST http://localhost:8000/api
+```
